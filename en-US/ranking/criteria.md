@@ -62,7 +62,7 @@ If you're looking for the steps of getting a mapset ranked, see: [Quaver Ranking
 
 ### Rules
 
-- **The `Song Title`, `Artist Name`, `Tags`, `Source` and `Creator Username` fields must be identical across all difficulties**
+- **The `Song Title`, `Artist Name`, `Tags`, `Source` and `Creator Username` fields must be identical across all difficulties.**
 - **The `Song Title`, `Artist Name` and `Source` fields must be romanized.** Non-romanized metadata can be added to tags. Loan words from other languages should use the original words instead of attempted romanization, so long they are part of the latin alphabet.
 - **The `Song Title`, `Artist Name`, `Source` and `Creator Username` must not repeat in tags.** Only exception being in cases where these appear in relevant tags, such as the song genre. 
 
@@ -81,7 +81,7 @@ If you're looking for the steps of getting a mapset ranked, see: [Quaver Ranking
 - Any form of `vs.`, `VS`, etc. indicating collaboration between artists should be formatted as `vs.`.
 - Any form of `feat.`, `ft.`, etc. indicating a featured artist should be formatted as `feat.`.
 - Any form of `4K` or `7K` to denote the gamemode of the difficulty should always be formatted as such, and not `4k` or `7k` for example.
-- If a voice actor is performing a song in character the artist should be listed as `Character (CV: Voice Actor)`
+- If a voice actor is performing a song in character the artist should be listed as `Character (CV: Voice Actor)`.
 - If the specific version of a song is used in a TV program, series, or similar media as an opening/ending song, the `(TV Size)` marker must be used at the end of the title. If the title contains a similar marker by default, it should be replaced with `(TV Size)`.
 - If a song title contains short version or game version markers by default, they must be replaced with `(Short Ver.)` and `(Game Ver.)` respectively.
 - Unofficial cut versions of songs must use `(Cut Ver.)` at the end of the title. If the title contains a length marker by default, it should be replaced with `(Cut Ver.)`. This rule does not apply to songs that are shortened in ways that nearly match their original versions or songs that consist of a full loop from a looping track.
@@ -164,7 +164,7 @@ If you're looking for the steps of getting a mapset ranked, see: [Quaver Ranking
 - **Further tags to include are:**
   - **Unused artist, title, or source metadata not used in the fields due to multiple options existing.**
   - **Other artist or contributers related to the track not already listed.** For example, lyricist, guitarist, composer, etc.
-  - **Commonly found patterns and styles in the chart**
+  - **Commonly found patterns and styles in the chart.**
   - **Alternative spellings of difficult-to-write phrases in the metadata.**
      - `don't`, `you're` and similar would be added to the tags as `dont`, `youre`.
      - `l1f3` , `m0n3y` and similar would be added to the tags as `life`, `money`. 
@@ -180,7 +180,7 @@ If you're looking for the steps of getting a mapset ranked, see: [Quaver Ranking
    - Collaborative difficulties may be marked by using a combination of both the mappers names, both the mappers names with an appropriate dividing word or marker, a descriptive word, or simply `Collab`.  
 - **If the mapset is a spread, the difficulty names should show a clear difficulty progression.**
    - When using non standard difficulty naming the standard difficulty name may be added with a clear dividing marker, such as `| Difficulty` or `(Difficulty)` at the end of the difficulty title.
-- **Mapsets using more than 1 skillset across the difficulties must have a clear description of the skillset in the difficulty name.** Examples of this would be `Jumpinghoop (Chordjack)` or `Rollercoaster (Jumpstream)` 
+- **Mapsets using more than 1 skillset across the difficulties must have a clear description of the skillset in the difficulty name.** Examples of this would be `Jumpinghoop (Chordjack)` or `Rollercoaster (Jumpstream)`. 
  
 ### Guidelines
 
@@ -251,7 +251,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
 - **Each difficulty must be timed accurately.**
   - **Each difficulty in a set must share the same timing points.** Exceptions to this rule can be made for timing line art or other visual gimmicks.
 - **Scroll Velocity changes should reflect the music.**
-- **The host of a mapset should have mapped an equal or more difficulties then any individual guest difficulty creator.**
+- **The host of a mapset should have mapped an equal amount or more difficulties then any individual guest difficulty creator.**
 - **All difficulties must have been made by a human.**
 - **No difficulty should contain any unused SV points.**
 
@@ -284,7 +284,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
 - **Each game mode is treated separately.** If you are creating a mapset for both 4 Keys and 7 Keys, you must have a difficulty spread for both game modes.
 - **Mapsets under 2:30 minutes long must form a difficulty spread following the minimum required difficulties for it's length.**
     - Seperate skillsets should have their own spread or work in the spread.
-      
+- **Mapsets under 2:30 are not permitted to skip any difficulties in the spread.** For instance if you are making a 1 minute set with a hard difficulty, your map must contain either an `easy and normal`, `normal and insane` or `insane and expert`.     
        
 
 ## Difficulty-Specific

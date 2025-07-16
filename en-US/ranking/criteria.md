@@ -284,7 +284,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
 - **Each game mode is treated separately.** If you are creating a mapset for both 4 Keys and 7 Keys, you must have a difficulty spread for both game modes.
 - **Mapsets under 2:30 minutes long must form a difficulty spread following the minimum required difficulties for it's length.**
     - Seperate skillsets should have their own spread or work in the spread.
-- **Mapsets under 2:30 are not permitted to skip any difficulties in the spread.** For instance if you are making a 1 minute set with a hard difficulty, your map must contain either an `easy and normal`, `normal and insane` or `insane and expert`.     
+- **Mapsets under 2:30 are not permitted to skip any difficulties in the spread.** For instance if you are making a 1 minute set with a Hard difficulty, your map must contain either an `Easy and Normal`, `Normal and Insane` or `Insane and Expert`.     
        
 
 ## Difficulty-Specific

@@ -3,6 +3,7 @@ name: Ranking Criteria
 ---
 
 - [Quaver Ranking Criteria](#quaver-ranking-criteria)
+- [Commonly used terminology](#commonly-used-terminology)
 - [Metadata](#metadata)
    - [General](#general)
         - [Rules](#rules)
@@ -55,6 +56,21 @@ The ranking criteria is divided into rules and guidelines.
 - **Guidelines may be ignored with good reason.** While guidelines tend to be suggestions they usually result in a better map quality. 
 
 If you're looking for the steps of getting a mapset ranked, see: [Quaver Ranking Process](/docs/Ranking/Process).
+
+# Commonly used terminology 
+
+This section aims to clarify any commonly used terms within the ranking criterea. 
+
+- **Romanization**: Converting non-Latin writing into the Latin alphabet.
+- **Game Modes**: The amount of keys/lanes present in your map.
+- **Drain time**: The amount of time there are actively are notes to play. 
+- **SV/Scroll Velocity**: The speed at which notes move on the playifield
+- **GD/Guest Difficulty**: When a difficulty in your mapset was not made by you.
+- **BPM**: Tempo of a song measured in beats per minute.
+- **Mapping Style**: A mapper's intended style of note placements in a difficulty or set.
+- **Difficulty Spread**: A mapset containing different difficulties going up in ascending order.
+- **Spread Continuity**: A mapset that does not skip any difficulties in the spread.
+- **Spread Progression** Each difficulty in a spread can be linked back to the previous difficulty in terms of mapping style.
 
 # Metadata
 
@@ -247,7 +263,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
 - **No difficulty may have any overlapping notes.**
 - **More than 75% of the length of the song must have notes to play on every difficulty.**
 - **Each difficulty must have at least 1 note placed on every column.**
-- **The draintime of each difficulty must be at least 45 seconds.**
+- **The drain time of each difficulty must be at least 45 seconds.**
 - **Each difficulty must be timed accurately.**
   - **Each difficulty in a set must share the same timing points.** Exceptions to this rule can be made for timing line art or other visual gimmicks.
 - **Scroll Velocity changes should reflect the music.**
@@ -283,10 +299,9 @@ A mapset is not required to have a banner image. These rules apply in case the m
 
 - **Each game mode is treated separately.** If you are creating a mapset for both 4 Keys and 7 Keys, you must have a difficulty spread for both game modes.
 - **Mapsets under 2:30 minutes long must form a difficulty spread following the minimum required difficulties for it's length.**
-    - Seperate skillsets should have their own spread or work in the spread.
-- **Mapsets under 2:30 are not permitted to skip any difficulties in the spread.** For instance if you are making a 1 minute set with a Hard difficulty, your map must contain either an `Easy and Normal`, `Normal and Insane` or `Insane and Expert`.     
+- **Mapsets under 2:30 minutes long must form a spread enforcing both spread continuity and spread progression.** For instance if you are making a 1 minute set with a Hard difficulty, your map must contain either an `Easy and Normal`, `Normal and Insane` or `Insane and Expert`.
+   
        
-
 ## Difficulty-Specific
 
 The following descriptions are what each difficulty should typically look like. Keep in mind that this isn't concrete, and there is room for subjectivity in individual cases. It is to serve how a map should come to feel and look. The following descriptions are crafted for a song at 180 BPM. 

@@ -64,7 +64,7 @@ This section aims to clarify any commonly used terms within the ranking criterea
 - **Romanization**: Converting non-Latin writing into the Latin alphabet.
 - **Game Modes**: The amount of keys/lanes present in your map.
 - **Drain time**: The amount of time there actively are notes to play. 
-- **SV/Scroll Velocity**: The speed at which notes move on the playifield
+- **SV/Scroll Velocity**: The speed at which notes move on the playfield
 - **GD/Guest Difficulty**: When a difficulty in your mapset was not made by you.
 - **BPM**: Tempo of a song measured in beats per minute.
 - **Mapping Style**: A mapper's intended style of note placements in a difficulty or set.

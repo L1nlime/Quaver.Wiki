@@ -85,7 +85,7 @@ This section aims to clarify any commonly used terms within the ranking criterea
 ### Guidelines
 
 - **When multiple metadata options are available:**
-  - Aim to match Ranked mapsets. Follow what is recent and common, and verify that metadata is correct and fix it as needed.
+  - Review other ranked maps that have similar metadata to yours. This is for consistency, though accuracy may be favored more in some cases.
   - Official romanizations/translations are preferred.
 
 ## Standardization
@@ -158,7 +158,7 @@ This section aims to clarify any commonly used terms within the ranking criterea
 ### Rules
 
 - **The source field must be used if the song is directly from a media or event**. This includes but is not limited to `Video game`, `Album`, `Series`, `Contest`, etc. A Streaming hosting site like YouTube is not a valid source and should not be used.
-- **Remixes, arrangements, covers etc. that are based on another song should use their own source and put the original song's source in tags.**
+- **Remixes, arrangements, covers etc. that are based on another song should use their respective source when applicable. The original song's source must be included in the tags.**
 - **Song compilations, medleys and other pieces of media with multiple songs without a common source should have the sources put in the tags.** This rule does not apply if the piece of media is linked to a source itself, such as an album.
 - **Only one source may be used in the source field.**
 

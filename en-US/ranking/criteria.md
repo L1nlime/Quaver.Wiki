@@ -53,7 +53,7 @@ In order to get a mapset ranked, it must follow the ranking criteria listed belo
 The ranking criteria is divided into rules and guidelines.
 
 - **Rules that may not be broken under any circumstances.**
-- **Guidelines may be ignored with good reason.** While guidelines tend to be suggestions they usually result in a better map quality. 
+- **Guidelines may be ignored with good reason.** While guidelines tend to be suggestions, they usually result in a better map quality. 
 
 If you're looking for the steps of getting a mapset ranked, see: [Quaver Ranking Process](/docs/Ranking/Process).
 

@@ -53,7 +53,7 @@ In order to get a mapset ranked, it must follow the ranking criteria listed belo
 The ranking criteria is divided into rules and guidelines.
 
 - **Rules that may not be broken under any circumstances.**
-- **Guidelines may be ignored with good reason.** While guidelines tend to be suggestions they usually result in a better map quality. 
+- **Guidelines may be ignored with good reason.** While guidelines tend to be suggestions, they usually result in a better map quality. 
 
 If you're looking for the steps of getting a mapset ranked, see: [Quaver Ranking Process](/docs/Ranking/Process).
 
@@ -292,7 +292,8 @@ A mapset is not required to have a banner image. These rules apply in case the m
 
 | Length        | Minimum Required Maps |
 | ------------- | :-------------------: |
-| **0:45-2:29** |           3           |
+| **0:45-1:29** |           3           |
+| **1:30-2:29** |           2           | 
 | **2:30+**     |           1           | 
 
 ### Rules

@@ -189,7 +189,7 @@ This section aims to clarify any commonly used terms within the ranking criterea
 
 ### Rules
 
-- **The difficulty name should be kept appropriate for people aged 13+.**
+- **All difficulty names should be kept appropriate for people aged 13+.**
 - **If a mapset contains two game modes, each difficulty must be prefaced with either `4K` or `7K`.** For example, `7K Easy`.
 - **Guest difficulty creators must be credited in the difficulty title of their respective difficulty.** For example, `Flamingo's Hard`.
    - In case of multi-mode guest difficulties. Guest creators come before keymode markings.

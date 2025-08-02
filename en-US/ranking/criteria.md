@@ -157,7 +157,7 @@ This section aims to clarify any commonly used terms within the ranking criterea
 
 ### Rules
 
-- **The source field must be used if the song is directly from a media or event**. This includes but is not limited to `Video game`, `Album`, `Series`, `Contest`, etc.
+- **The source field must be used if the song is directly from a media or event**. This includes but is not limited to `Video game`, `Album`, `Series`, `Contest`, etc. A Streaming hosting site like YouTube is not a valid source and should not be used.
 - **Remixes, arrangements, covers etc. that are based on another song should use their own source and put the original song's source in tags.**
 - **Song compilations, medleys and other pieces of media with multiple songs without a common source should have the sources put in the tags.** This rule does not apply if the piece of media is linked to a source itself, such as an album.
 - **Only one source may be used in the source field.**
@@ -251,7 +251,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
 
 ### Guidelines
 
-- **The audio must be appropriate for players of all ages and should not include content that is offensive just for the sake of being offensive.** Minor explicit songs may still be ranked when marked as explicit.
+- **The audio must be appropriate for players of all ages and should not include content that is offensive just for the sake of being offensive.** Minor explicit songs may still be ranked by being marked as explicit.
 
 # Maps
 
@@ -336,12 +336,12 @@ QR is a suggestion to what difficulty your map is, however the patterning used i
      - Note snappings of consecutive 1/8 and higher should not be used.
      - Avoid chords during long 1/4 streams. If you use chords during 1/4 streams space them well.
      - Long notes are at least 1/4 of a beat long.
-     - Avoid chords with more than 3 notes for 4K, avoid chord with more than 4 notes for 7K.
+     - Avoid chords with more than 3 notes for 4K, avoid chords with more than 4 notes for 7K.
      - Scroll Velocity changes are reflective of this difficulty's position in the mapset. If this is the first SV of a spread it is recommended to keep it entry level.
  
 - **Insane**
      - Players at this level will be able to handle a wide variety of patterns.
-     - Avoid using any kind long lasting complicated high snap patterning.
+     - Avoid using any kind of long lasting complicated high snap patterning.
      - Avoid using chords in the middle of 1/8 streams.
      - Scroll Velocity changes are reflective of this difficulty's position in the mapset.
        

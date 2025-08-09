@@ -305,7 +305,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
        
 ## Difficulty-Specific
 
-The following descriptions are what each difficulty should typically look like. Keep in mind that this isn't concrete, and there is room for subjectivity in individual cases. It is to serve how a map should come to feel and look. The following descriptions are crafted for a song at 180 BPM. 
+The following descriptions are what each difficulty should typically look like. Keep in mind that this isn't concrete, and there is room for subjectivity in individual cases. These criteria serve to show how a map should generally come to feel and look. The following descriptions are crafted for a song at 180 BPM. 
 QR is a suggestion to what difficulty your map is, however the patterning used is the deciding factor.
 
 - **Beginner**

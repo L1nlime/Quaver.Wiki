@@ -64,7 +64,7 @@ This section aims to clarify any commonly used terms within the ranking criterea
 - **Romanization**: Converting non-Latin writing into the Latin alphabet.
 - **Game Modes**: The amount of keys/lanes present in your map.
 - **Drain time**: The amount of time there actively are notes to play. 
-- **SV/Scroll Velocity**: The speed at which notes move on the playfield.
+- **SV/Scroll Velocity**: Note speed changes during the map.
 - **GD/Guest Difficulty**: When a difficulty in your mapset was not made by you.
 - **BPM**: Tempo of a song measured in beats per minute.
 - **Mapping Style**: A mapper's intended style of note placements in a difficulty or set.
@@ -210,7 +210,7 @@ This section aims to clarify any commonly used terms within the ranking criterea
 
 ### Rules
 
-- **The total file size of the mapset must not exceed 100 MB.**
+- **The total file size of the mapset must not exceed 100 MB.** The upload limit without donator is 50 MB.
 - **A mapset cannot contain any unused files.**
 - **Difficulties containing repetitive cases of rapidly flashing notes must contain an epilepsy warning in the description of the mapset.**
 - **All media used should be of reasonable quality.**
@@ -261,7 +261,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
 
 - **Autoplay must be able to achieve a 100% (X-Grade) score on every difficulty.**
 - **No difficulty may have any overlapping notes.**
-- **More than 75% of the length of the song must have notes to play on every difficulty.**
+- **75% or more of the length of the song must have notes to play on every difficulty.**
 - **Each difficulty must have at least 1 note placed on every column.**
 - **The drain time of each difficulty must be at least 45 seconds.**
 - **Each difficulty must be timed accurately.**
@@ -273,7 +273,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
 
 ### Guidelines
 
-- **Avoid using overly long breaks (more than 30 seconds of consecutive break time.**
+- **Avoid using overly long breaks (more than 30 seconds of consecutive break time).**
 - **Maps should reflect the song concistently and accurately.**
   - **Notes should correlate to sounds in the music.**
   - **The intensity of the map should generally be synced with the music.**
@@ -347,4 +347,4 @@ QR is a suggestion to what difficulty your map is, however the patterning used i
      - Scroll Velocity changes are reflective of this difficulty's position in the mapset.
        
 - **Expert**
-     - From this point on, the only thing holding you back would be the spread. Feel free to be creative. 
+     - From this point on, the only thing holding you back would be the spread. Get creative!

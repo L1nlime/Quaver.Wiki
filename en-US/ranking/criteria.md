@@ -219,7 +219,7 @@ This section aims to clarify any commonly used terms within the ranking criteria
 ### Guidelines
 
 - **Borderline-explicit content (including but not limited to graphic or sexually appealing content) should not be used for any visual media.**
-- **Visual media used in a mapset is adviced to have some form of relevancy to the songs feel, theme or origin.**
+- **Visual media used in a mapset is advised to have some form of relevancy to the songs feel, theme or origin.**
 
 ## Background
 

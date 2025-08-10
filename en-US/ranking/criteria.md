@@ -59,7 +59,7 @@ If you're looking for the steps of getting a mapset ranked, see: [Quaver Ranking
 
 # Commonly used terminology 
 
-This section aims to clarify any commonly used terms within the ranking criterea. 
+This section aims to clarify any commonly used terms within the ranking criteria. 
 
 - **Romanization**: Converting non-Latin writing into the Latin alphabet.
 - **Game Modes**: The amount of keys/lanes present in your map.

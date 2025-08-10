@@ -274,7 +274,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
 ### Guidelines
 
 - **Avoid using overly long breaks (more than 30 seconds of consecutive break time).**
-- **Maps should reflect the song concistently and accurately.**
+- **Maps should reflect the song consistently and accurately.**
   - **Notes should correlate to sounds in the music.**
   - **The intensity of the map should generally be synced with the music.**
   - **Simplification patterns may be used under certain circumstances including but not limited to:**

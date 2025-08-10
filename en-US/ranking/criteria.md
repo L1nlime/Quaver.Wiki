@@ -319,7 +319,7 @@ QR is a suggestion to what difficulty your map is, however the patterning used i
      - This is for players who just started grasping the game.
      - Long notes are at least 1 beat long.
      - Note density consists of mostly 1/1 with occasional 1/2.
-     - 1/2 patterns are no longer then 5 notes.
+     - 1/2 patterns are no longer than 5 notes.
      - Avoid chords with more than 2 notes.
      - Scroll Velocity changes are heavily discouraged.
 

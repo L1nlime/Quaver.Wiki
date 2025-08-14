@@ -196,12 +196,12 @@ This section aims to clarify any commonly used terms within the ranking criteria
    - Collaborative difficulties may be marked by using a combination of both the mappers names, both the mappers names with an appropriate dividing word or marker, a descriptive word, or simply `Collab`.  
 - **If the mapset is a spread, the difficulty names should show a clear difficulty progression.**
    - When using non standard difficulty naming the standard difficulty name may be added with a clear dividing marker, such as `| Difficulty` or `(Difficulty)` at the end of the difficulty title.
-- **Mapsets using more than 1 skillset across the difficulties must have a clear description of the skillset in the difficulty name.** Examples of this would be `Jumpinghoop (Chordjack)` or `Rollercoaster (Jumpstream)`. 
  
 ### Guidelines
 
 - **A custom difficulty name should be kept at a reasonable length**, around 20-30 characters is the regular upper bound.
 - **A custom difficulty name should be kept related to the mapset.**
+- **If a mapset contains multiple difficulties that are one unique skillset, you should provide a clear description of the skillset in the difficulty name.** You would do this by putting the skillset in parentheses at the end of the difficulty name. Examples of this would be `Jumpinghoop (Chordjack)` or `Rollercoaster (Jumpstream)`. 
 - **Avoid non-alphanumeric unicode characters in a difficulty's name.**
 
 # Media

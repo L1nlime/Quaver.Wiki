@@ -79,7 +79,7 @@ This section aims to clarify any commonly used terms within the ranking criteria
 ### Rules
 
 - **The `Song Title`, `Artist Name`, `Tags`, `Source` and `Creator Username` fields must be identical across all difficulties.**
-- **The `Song Title`, `Artist Name` and `Source` fields must be romanized.** Non-romanized metadata can be added to tags. Loan words from other languages should use the original words instead of attempted romanization, so long they are part of the latin alphabet.
+- **The `Song Title`, `Artist Name` and `Source` fields must be romanized.** Non-romanized metadata can be added to tags. Loan words from other languages should use the original words instead of attempted romanization, so long as they are part of the Latin alphabet.
 - **The `Song Title`, `Artist Name`, `Source` and `Creator Username` must not repeat in tags.** Only exception being in cases where these appear in relevant tags, such as the song genre. 
 
 ### Guidelines

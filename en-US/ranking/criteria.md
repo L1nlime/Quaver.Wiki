@@ -179,7 +179,7 @@ This section aims to clarify any commonly used terms within the ranking criteria
 - **Remixes, arrangements and mashups should tag both the original and current song genres.**
 - **Further tags to include are:**
   - **Unused artist, title, or source metadata not used in the fields due to multiple options existing.**
-  - **Other artist or contributers related to the track not already listed.** For example, lyricist, guitarist, composer, etc.
+  - **Other artist or contributors related to the track not already listed.** For example, lyricist, guitarist, composer, etc.
   - **Commonly found patterns and styles in the chart.**
   - **Alternative spellings of difficult-to-write phrases in the metadata.**
      - `don't`, `you're` and similar would be added to the tags as `dont`, `youre`.

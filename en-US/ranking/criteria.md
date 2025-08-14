@@ -176,7 +176,7 @@ This section aims to clarify any commonly used terms within the ranking criteria
 
 ### Guidelines
 
-- **Remixes, arrangements and mashups should tag both the original and current song genre's.**
+- **Remixes, arrangements and mashups should tag both the original and current song genres.**
 - **Further tags to include are:**
   - **Unused artist, title, or source metadata not used in the fields due to multiple options existing.**
   - **Other artist or contributers related to the track not already listed.** For example, lyricist, guitarist, composer, etc.

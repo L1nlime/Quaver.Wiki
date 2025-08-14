@@ -267,7 +267,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
 - **Each difficulty must be timed accurately.**
   - **Each difficulty in a set must share the same timing points.** Exceptions to this rule can be made for timing line art or other visual gimmicks.
 - **Scroll Velocity changes should reflect the music.**
-- **The host of a mapset should have mapped an equal amount or more difficulties then any individual guest difficulty creator.**
+- **The host of a mapset should have mapped an equal amount or more difficulties than any individual guest difficulty creator.**
 - **All difficulties must have been made by a human.**
 - **No difficulty should contain any unused SV points.**
 

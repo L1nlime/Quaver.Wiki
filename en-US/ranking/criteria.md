@@ -134,7 +134,7 @@ This section aims to clarify any commonly used terms within the ranking criteria
 ### Rules
 
 - **The artist must be absolutely correct.**
-- **Do not use fictional character names or programs as the sole artist on a track.** Exceptions are if the name is the artist's own alias.
+- **Do not use fictional character names or programs as the sole artist on a track.** An exception is if the name is the artist's own alias.
    - **If there is no known human artist, `Unknown Artist` must be used.**
 - **Use a trailing space for markers like `vs.` and `feat.`.** If a word comes before the marker, a leading space must also be used.
 

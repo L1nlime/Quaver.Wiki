@@ -263,6 +263,7 @@ A mapset is not required to have a banner image. These rules apply in case the m
 ### Rules
 
 - **Mapsets should not be made with malicious intent.** This includes abusing the difficulty calculation and intentionally ranking something knowing it can inflict harm to the ranked section or player.
+   - The definition of malicious intent might shift over time and is decided upon by the supervisor team.
 - **Autoplay must be able to achieve a 100% (X-Grade) score on every difficulty.**
 - **No difficulty may have any overlapping notes.**
 - **75% or more of the length of the song must have notes to play on every difficulty.**
